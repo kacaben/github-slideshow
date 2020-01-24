@@ -6,6 +6,8 @@ This change should not be cherry picked.
 
 This change should not be cherry picked either.
 
+This should be cherry picked.
+
 Oh! I haven't introduced myself...
 
 I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
